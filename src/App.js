@@ -11,6 +11,7 @@ function App() {
     <>
     <ThemeProvider>
         <FunctionContextComponent />
+        <div>test change</div>
       </ThemeProvider>
     </>
   );
